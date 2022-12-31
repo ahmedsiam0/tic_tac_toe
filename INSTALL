@@ -1,0 +1,10 @@
+To compile this software you need the following packages:
+- rustc
+- cargo
+
+Execute the following to compile the package:
+cd %source-directory%
+cargo build --release
+
+
+Then you will find the executable in %source-directory%/target/release
